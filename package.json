@@ -1,0 +1,22 @@
+{
+  "name": "pepe-express-workshop",
+  "version": "1.0.0",
+  "description": "exercise NODE",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jose-cod7/express-workshop.git"
+  },
+  "author": "Jose Arriaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jose-cod7/express-workshop/issues"
+  },
+  "homepage": "https://github.com/Jose-cod7/express-workshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
